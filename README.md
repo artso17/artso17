@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artso17
-- 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Python, Django
+- 👀 I’m interested in Data Scientist
+- 🌱 I’m currently learning Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
