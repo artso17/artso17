@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @artso17
+- 👋 Hi, I’m Aditya Prasetyo Budiarso
 - 👀 I’m interested in Data Scientist
 - 🌱 I’m currently learning Python, Pandas, Numpy, Scikit-learn, Matplotlib, Seaborn
 - 💞️ I’m looking to collaborate on ...
