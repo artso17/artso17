@@ -11,7 +11,7 @@ Hi, I am **Aditya Prasetyo Budiarso**. I am interested in Data role like **Data 
 I use github as my portfolio gallery where I save my project scripts. 
 <!--- Currently, I take a Data Engineer Bootcamp to obtain skills of Data Engineering and to hunt my position to be Data Engineer. --->
 
-Feel free to contact me on e-mail defuse805@gmail.com
+Feel free to contact me on e-mail adityaprasetyo.b17@gmail.com
 
 
 <!---
